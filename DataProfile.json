@@ -1,0 +1,97 @@
+{
+    "personal": {
+        "fullname": "Hafid Riyadi",
+        "first_name": "Hafid",
+        "last_name": "Riyadi",
+        "picture": "/hafidr.jpg",
+        "position": "Junior Web Developer",
+        "social_media": [
+            {"icon": "facebook-f", "url" : "https://bit.ly/2UAnDBD"},
+            {"icon": "twitter", "url" : "https://twitter.com/HafidR_"},
+            {"icon": "linkedin-in", "url" : "https://bit.ly/2vTdKXs"}
+        ],
+        "address": "Bogor, Jawa Barat, Indonesia",
+        "phone": "0895-3308-65375",
+        "website": "https://hafidr.github.io",
+        "email": "hafid.riyadi17@gmail.com",
+        "intro": "Hai, saya Hafid Riyadi, orang biasa yang ingin jadi programmer hebat. Lahir di Bogor, 10 Februari 2002; Saya mengenal pemrogramman sejak berada dibangku sekolah dasar. Saya sangat tertarik dengan dunia pemrograman dan hal - hal yang berbau teknologi."
+    },
+    "skills": [
+        {"title": "HTML", "percentage": "90"},
+        {"title": "CSS", "percentage": "75"},
+        {"title": "Javascript", "percentage": "80"},
+        {"title": "Codeigniter", "percentage": "90"},
+        {"title": "Bootstrap", "percentage": "75"},
+        {"title": "Tailwind", "percentage": "45"},
+        {"title": "React Native", "percentage": "40"},
+        {"title": "ReactJs/NextJS", "percentage": "50"}
+    ],
+    "experiences": [
+        {
+            "company": "PT Gugus Karang Mekar",
+            "position": "Fullstack Developer",
+            "date": "2019",
+            "address": "Bogor, Jawa Barat",
+            "description": "Magang Selama 2 bulan di PT Gugus Karang Mekar, mengembangkan website point of sale."
+        },
+        {
+            "company": "Arcode",
+            "position": "Fullstack Developer",
+            "date": "2019",
+            "address": "Bogor, Jawa Barat",
+            "description": "Freelance membangun website portal lowongan kerja atau jasa."
+        },
+        {
+            "company": "PT Creators Inovasi Teknologi",
+            "position": "Fullstack Developer",
+            "date": "2019",
+            "address": "Bogor, Jawa Barat",
+            "description": "Praktek kerja lapangan selama 3 bulan di PT Creators Inovasi Teknologi, membangun dan maintenance beberapa website selama magang."
+        },
+        {
+            "company": "PT Tujuh Cahaya Teknologi",
+            "position": "Fullstack Developer",
+            "date": "2018",
+            "address": "Bogor, Jawa Barat",
+            "description": "Praktek kerja lapangan selama 4 bulan di PT Tujuh Cahaya Teknologi atau lebih dikenal Sevenlight, membangun dan maintenance beberapa website selama magang."
+        }
+    ],
+    "educations": [
+        {
+            "school": "Univ. IBN Khaldun Bogor",
+            "date": "2020 - Sekarang",
+            "address": "Bogor, Jawa Barat",
+            "study": "Teknik Informatika"
+        },
+        {
+            "school": "SMKN 1 Ciomas",
+            "date": "2017 - 2020",
+            "address": "Bogor, Jawa Barat",
+            "study": "Rekayasa Perangkat Lunak"
+        },
+        {
+            "school": "SMPN 2 Dramaga",
+            "date": "2014 - 2017",
+            "address": "Bogor, Jawa Barat",
+            "study": ""
+        },
+        {
+            "school": "SDN Sindang Barang 2",
+            "date": "2008 - 2014",
+            "address": "Bogor, Jawa Barat",
+            "study": ""
+        },
+        {
+            "school": "TK Al - Yasmin",
+            "date": "2006 - 2007",
+            "address": "Bogor, Jawa Barat",
+            "study": ""
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Kamp Kreatif Siswa Indonesia 2019",
+            "description": "Juara 2 dalam ajang berskala nasional dengan tema membangun sistem smart school pada tahun 2019."
+        }
+    ]
+}
